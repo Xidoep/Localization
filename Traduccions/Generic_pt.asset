@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Generic_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 53889619628576768
+    m_Localized: Um pequeno jabuti xereta viu dez cegonhas felizes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664852266143744
+    m_Localized: Aceitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664893768781824
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104666997115768832
+    m_Localized: Tem certeza de que deseja mudar o idioma do jogo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104707295472701440
+    m_Localized: "por padr\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104709180648771584
+    m_Localized: "Portugu\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105690973334065152
+    m_Localized: Prosseguir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692014154797056
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692783968964608
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708870286626816
+    m_Localized: Teclado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708887340666880
+    m_Localized: Controle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105711477667319808
+    m_Localized: Menu de pausa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105781014609711104
+    m_Localized: Tem certeza de que deseja voltar ao menu principal?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105795585810550784
+    m_Localized: Tem certeza de que deseja alterar o controlador de jogo? Certifique-se
+      de que ele esteja conectado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108276306844241920
+    m_Localized: Tem certeza de que deseja sair do jogo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743201472958464
+    m_Localized: "Defini\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110730334208
+    m_Localized: "\xC1udio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243521404194816
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243525460086784
+    m_Localized: Jogabilidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243530015100928
+    m_Localized: "Gr\xE1ficos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243536457551872
+    m_Localized: "L\xEDngua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243541889175552
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816585753513984
+    m_Localized: Insetos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816624022343680
+    m_Localized: "Alguma sugest\xE3o?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243915337420800
+    m_Localized: Volte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244002092404736
+    m_Localized: "Sa\xEDda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244160473518080
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244182250344448
+    m_Localized: Efeitos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244185668702208
+    m_Localized: Mudo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244187581304832
+    m_Localized: Verdade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244342460174336
+    m_Localized: Falso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799837155250176
+    m_Localized: Movimento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799840917540864
+    m_Localized: Olhar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799842184220672
+    m_Localized: Atirar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799843652227072
+    m_Localized: Bombas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799975051382784
+    m_Localized: Interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809939748802560
+    m_Localized: "... est\xE1 faltando um idioma?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887438738051072
+    m_Localized: Selecione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887464629489664
+    m_Localized: Deselecionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109064921279025152
+    m_Localized: Atual
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Generic_fr-FR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 110730334208
+    m_Localized: Musice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743201472958464
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887464629489664
+    m_Localized: "D\xE9s\xE9lectionner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887438738051072
+    m_Localized: "S\xE9lectionner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816585753513984
+    m_Localized: Bugs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53889619628576768
+    m_Localized: Portez ce whisky au vieux juge blond qui fume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664852266143744
+    m_Localized: J'accepte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664893768781824
+    m_Localized: Annuler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104666997115768832
+    m_Localized: Voulez-vous vraiment changer la langue du jeu ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104707295472701440
+    m_Localized: "par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104709180648771584
+    m_Localized: "Fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105690973334065152
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692014154797056
+    m_Localized: "Les contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692783968964608
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708870286626816
+    m_Localized: Clavier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708887340666880
+    m_Localized: manette de jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105711477667319808
+    m_Localized: Suspendre le menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105781014609711104
+    m_Localized: "Voulez-vous vraiment revenir au menu principal\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105795585810550784
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir changer de contr\xF4leur de jeu\_?
+      Assurez-vous de l'avoir branch\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108276306844241920
+    m_Localized: "\xCAtes-vous s\xFBr de vouloir quitter le jeu\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243521404194816
+    m_Localized: "Les contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243525460086784
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243530015100928
+    m_Localized: Graphique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243536457551872
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243541889175552
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816624022343680
+    m_Localized: Toute suggestion?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243915337420800
+    m_Localized: Retourner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244002092404736
+    m_Localized: Sortir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244160473518080
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244182250344448
+    m_Localized: Effets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244185668702208
+    m_Localized: Muet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244187581304832
+    m_Localized: Vrai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244342460174336
+    m_Localized: Faux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799837155250176
+    m_Localized: Mouvement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799840917540864
+    m_Localized: Viser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799842184220672
+    m_Localized: Tirer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799843652227072
+    m_Localized: Bombes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799975051382784
+    m_Localized: Interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809939748802560
+    m_Localized: ... vous manque une langue?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109064921279025152
+    m_Localized: Courant
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

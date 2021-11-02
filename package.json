@@ -1,0 +1,9 @@
+{
+  "name": "com.xidostudio.traduccio",
+  "version": "1.0.0-preview.1",
+  "displayName": "XS_Traduccio",
+  "type": "tool",
+  "dependencies": {
+    "com.xidostudio.guardat": "1.0.0"
+  }
+}

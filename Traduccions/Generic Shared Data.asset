@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Generic Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Generic
+  m_TableCollectionNameGuidString: c57b1a19b115908409fbf8060f51e954
+  m_Entries:
+  - m_Id: 743201472958464
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110730334208
+    m_Key: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243521404194816
+    m_Key: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243525460086784
+    m_Key: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243530015100928
+    m_Key: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243536457551872
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243541889175552
+    m_Key: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816585753513984
+    m_Key: Bugs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816624022343680
+    m_Key: Suggestions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243915337420800
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244002092404736
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244160473518080
+    m_Key: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244182250344448
+    m_Key: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244185668702208
+    m_Key: Mute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244187581304832
+    m_Key: True
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244342460174336
+    m_Key: False
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799837155250176
+    m_Key: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799840917540864
+    m_Key: Aim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799842184220672
+    m_Key: Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799843652227072
+    m_Key: Bombs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799975051382784
+    m_Key: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809939748802560
+    m_Key: do you miss a language?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887438738051072
+    m_Key: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887464629489664
+    m_Key: Deselect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664852266143744
+    m_Key: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664893768781824
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104666997115768832
+    m_Key: Change language?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104707295472701440
+    m_Key: by default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104709180648771584
+    m_Key: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105690973334065152
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692014154797056
+    m_Key: 'Controls
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692783968964608
+    m_Key: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708870286626816
+    m_Key: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708887340666880
+    m_Key: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53889619628576768
+    m_Key: pangrama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105711477667319808
+    m_Key: Pause menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105781014609711104
+    m_Key: To Main Menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105795585810550784
+    m_Key: Change controller?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108276306844241920
+    m_Key: To Exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109064921279025152
+    m_Key: Current
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1606320482543

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Generic
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 88d3d6dcd5ef04b42a4a3625f03cdbf6, type: 2}
+  - {fileID: 11400000, guid: f56a21ddf9ec75940a22dd4b29807511, type: 2}
+  - {fileID: 11400000, guid: 2f2bc1876da49704a8515fe4c52af4f2, type: 2}
+  - {fileID: 11400000, guid: c89333f987367eb4fa9ef15507e310c8, type: 2}
+  - {fileID: 11400000, guid: ce8d02bec0875494bb8e35712e183673, type: 2}
+  - {fileID: 11400000, guid: 8af3fd902b9ab6649b5b02a5b99f973f, type: 2}
+  - {fileID: 11400000, guid: 84f31901147d5f5458c69699cd786b7d, type: 2}
+  - {fileID: 11400000, guid: 7ad51bd1e1a437d428d25482a6b00038, type: 2}
+  - {fileID: 11400000, guid: 4b0450e08f0a1a04a9910236cdbcffd2, type: 2}
+  m_Extensions:
+  - id: 0
+  m_Group: String Table
+  references:
+    version: 1
+    00000000:
+      type: {class: GoogleSheetsExtension, ns: UnityEditor.Localization.Plugins.Google, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_SheetsServiceProvider: {fileID: 11400000, guid: 17fd3b08ba797d14f9c45a1aacb905a6, type: 2}
+        m_SpreadsheetId: 1DadZFuIZVMajq7aXQaWFlib5rRBIP78T8jNZKQtwx88
+        m_SheetId: 0
+        m_Columns: []
+        m_RemoveMissingPulledKeys: 1

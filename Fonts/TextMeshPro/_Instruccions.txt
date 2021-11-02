@@ -1,0 +1,2 @@
+Crear Font tipus TextMeshPro.
+Seleccionar Font > Create > TextMeshPro > FontAsset

@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Generic_ca
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ca
+  m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 110730334208
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243521404194816
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243525460086784
+    m_Localized: Joc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243530015100928
+    m_Localized: "Gr\xE0fics"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243536457551872
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243541889175552
+    m_Localized: "Cr\xE8dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243915337420800
+    m_Localized: Enderrere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244002092404736
+    m_Localized: Sortir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244160473518080
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244182250344448
+    m_Localized: Efectes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244185668702208
+    m_Localized: Mut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244187581304832
+    m_Localized: Cert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 244342460174336
+    m_Localized: Fals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743201472958464
+    m_Localized: "Configuaci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809939748802560
+    m_Localized: ... trobes a faltar una llengua?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816585753513984
+    m_Localized: Has trobat un error?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816624022343680
+    m_Localized: Algun suggeriment?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887438738051072
+    m_Localized: Seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887464629489664
+    m_Localized: Deseleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53889619628576768
+    m_Localized: "Jove xef, porti whisky amb quinze gla\xE7ons d'hidrogen, coi!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664852266143744
+    m_Localized: Acceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664893768781824
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104666997115768832
+    m_Localized: "De veritat vols canviar l\u2019idioma del joc?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104707295472701440
+    m_Localized: per defecte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104709180648771584
+    m_Localized: "Catal\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105690973334065152
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692014154797056
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692783968964608
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708870286626816
+    m_Localized: Teclat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708887340666880
+    m_Localized: Mando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105711477667319808
+    m_Localized: "Men\xFA de pausa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105781014609711104
+    m_Localized: "Esteu segur que voleu tornar al men\xFA principal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105795585810550784
+    m_Localized: Esteu segur que voleu canviar el controlador del joc? Assegureu-vos
+      que el teniu endollat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108276306844241920
+    m_Localized: Estas segur que vols deixar el joc?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799837155250176
+    m_Localized: Moviment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799840917540864
+    m_Localized: Apuntar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799842184220672
+    m_Localized: Dispara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799843652227072
+    m_Localized: Bombes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1799975051382784
+    m_Localized: Interactuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109064921279025152
+    m_Localized: Actual
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

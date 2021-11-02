@@ -1,0 +1,3 @@
+El problema no està en les localitzacions sino en els Adressables.
+Ves a:
+Window -> Asset Management -> Addressables -> Groups -> Build -> New Build -> Default Build Script
