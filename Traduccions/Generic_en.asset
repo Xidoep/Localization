@@ -181,5 +181,9 @@ MonoBehaviour:
     m_Localized: Current
     m_Metadata:
       m_Items: []
+  - m_Id: 126813879350775808
+    m_Localized: Climb / Crouched
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
