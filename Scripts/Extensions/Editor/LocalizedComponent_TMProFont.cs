@@ -56,12 +56,12 @@ namespace UnityEditor.Localization.Plugins.TMPro
             var collections = LocalizationEditorSettings.GetAssetTableCollections();
             foreach (var tableCollection in collections)
             {
-                if (tableCollection.name == "Fonts")
+                if (tableCollection.name == "Font")
                 {
                     comp.AssetReference.TableReference = tableCollection.TableCollectionNameReference;
                     foreach (var entry in tableCollection.SharedData.Entries)
                     {
-                        if (entry.Key == "fonts")
+                        if (entry.Key == "font")
                             comp.AssetReference.TableEntryReference = entry.Id;
                     }
                 }
