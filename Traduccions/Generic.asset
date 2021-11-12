@@ -23,17 +23,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 84f31901147d5f5458c69699cd786b7d, type: 2}
   - {fileID: 11400000, guid: 7ad51bd1e1a437d428d25482a6b00038, type: 2}
   - {fileID: 11400000, guid: 4b0450e08f0a1a04a9910236cdbcffd2, type: 2}
-  m_Extensions:
-  - id: 0
+  m_Extensions: []
   m_Group: String Table
   references:
     version: 1
-    00000000:
-      type: {class: GoogleSheetsExtension, ns: UnityEditor.Localization.Plugins.Google, asm: Unity.Localization.Editor}
-      data:
-        m_Collection: {fileID: 11400000}
-        m_SheetsServiceProvider: {fileID: 11400000, guid: 17fd3b08ba797d14f9c45a1aacb905a6, type: 2}
-        m_SpreadsheetId: 1DadZFuIZVMajq7aXQaWFlib5rRBIP78T8jNZKQtwx88
-        m_SheetId: 0
-        m_Columns: []
-        m_RemoveMissingPulledKeys: 1
