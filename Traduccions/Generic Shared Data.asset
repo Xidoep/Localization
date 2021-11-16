@@ -177,8 +177,12 @@ MonoBehaviour:
     m_Key: Current
     m_Metadata:
       m_Items: []
-  - m_Id: 126813879350775808
-    m_Key: Escalar/Ajupir
+  - m_Id: 128605801568456704
+    m_Key: Waiting input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128975581559312384
+    m_Key: Keyboard help
     m_Metadata:
       m_Items: []
   m_Metadata:

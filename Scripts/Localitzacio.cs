@@ -43,7 +43,7 @@ public class Localitzacio : ScriptableObject
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[_locale];
 
         //Guarda l'index a idiomes. Ja no utilitzarà més l'idioma del dispositiu.
-        if (guardat != null) guardat.Set(IdiomaActualKey, _locale);
+        if (guardat != null) guardat.SetLocal(IdiomaActualKey, _locale);
 
         //¡¡¡GUARDAR el guardat despres de fer això!!!
     }
@@ -51,6 +51,6 @@ public class Localitzacio : ScriptableObject
     public void PerDefecte()
     {
         LocalizationSettings.SelectedLocale = perDefecte;
-        if (guardat != null) guardat.Set(IdiomaActualKey, -1);
+        if (guardat != null) guardat.SetLocal(IdiomaActualKey, -1);
     }
 }

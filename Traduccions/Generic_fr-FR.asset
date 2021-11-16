@@ -16,7 +16,8 @@ MonoBehaviour:
     m_Code: fr-FR
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - id: 0
   m_TableData:
   - m_Id: 110730334208
     m_Localized: Musice
@@ -179,5 +180,23 @@ MonoBehaviour:
     m_Localized: Courant
     m_Metadata:
       m_Items: []
+  - m_Id: 128605801568456704
+    m_Localized: "En attente de l'entr\xE9e {Argument}..."
+    m_Metadata:
+      m_Items:
+      - id: 1
+  - m_Id: 128975581559312384
+    m_Localized: "Modifiez la position des touches pour qu'elles correspondent \xE0
+      votre appareil physique."
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d08a8e4be6c801
+    00000001:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d08a8e4be6c801
