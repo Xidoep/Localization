@@ -190,6 +190,10 @@ MonoBehaviour:
     m_Localized: Change the position of the keys to match your physical device.
     m_Metadata:
       m_Items: []
+  - m_Id: 129017169870245888
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
     00000000:

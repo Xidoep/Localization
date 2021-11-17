@@ -191,6 +191,10 @@ MonoBehaviour:
       do urz\u0105dzenia fizycznego."
     m_Metadata:
       m_Items: []
+  - m_Id: 129017169870245888
+    m_Localized: Resetowanie
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
     00000000:
