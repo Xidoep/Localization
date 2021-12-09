@@ -185,7 +185,7 @@ MonoBehaviour:
     m_Localized: Waiting for {Argument} input...
     m_Metadata:
       m_Items:
-      - id: 0
+      - rid: 128412176724787270
   - m_Id: 128975581559312384
     m_Localized: Change the position of the keys to match your physical device.
     m_Metadata:
@@ -194,9 +194,14 @@ MonoBehaviour:
     m_Localized: Reset
     m_Metadata:
       m_Items: []
+  - m_Id: 137267298339311616
+    m_Localized: Layout
+    m_Metadata:
+      m_Items: []
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 128412176724787270
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
