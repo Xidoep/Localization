@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 128412176724787230
+    - rid: 128412340012187732
   m_TableData:
   - m_Id: 110730334208
     m_Localized: "M\xFAsica"
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: Esperando la entrada de {Argument} ...
     m_Metadata:
       m_Items:
-      - rid: 128412176724787231
+      - rid: 128412340012187733
   - m_Id: 128975581559312384
     m_Localized: "Camba la posici\xF3n de las teclas para que coincida con su dispositivo
       f\xEDsico."
@@ -195,17 +195,29 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 137267298339311616
-    m_Localized: "Posici\xF3n"
+    m_Localized: "Tama\xF1o de la interfaz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139879054509264896
+    m_Localized: "\xBFFalta su idioma o ha notado un error de ortograf\xEDa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139886961887989760
+    m_Localized: "Disposici\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139888251825213440
+    m_Localized: 
     m_Metadata:
       m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 128412176724787230
+    - rid: 128412340012187732
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 128412176724787231
+    - rid: 128412340012187733
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

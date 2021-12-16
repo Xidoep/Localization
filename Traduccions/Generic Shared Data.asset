@@ -99,10 +99,6 @@ MonoBehaviour:
     m_Key: Interaction
     m_Metadata:
       m_Items: []
-  - m_Id: 1809939748802560
-    m_Key: do you miss a language?
-    m_Metadata:
-      m_Items: []
   - m_Id: 2887438738051072
     m_Key: Select
     m_Metadata:
@@ -117,10 +113,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 104664893768781824
     m_Key: Cancel
-    m_Metadata:
-      m_Items: []
-  - m_Id: 104666997115768832
-    m_Key: Change language?
     m_Metadata:
       m_Items: []
   - m_Id: 104707295472701440
@@ -190,17 +182,37 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 137267298339311616
+    m_Key: Interface size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104666997115768832
+    m_Key: Change language?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809939748802560
+    m_Key: do you miss a language?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139879054509264896
+    m_Key: do you miss a language? Popup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139886961887989760
     m_Key: Layout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139888251825213440
+    m_Key: Credits Complet
     m_Metadata:
       m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 128412176724787226
+    rid: 128412340012187768
   references:
     version: 2
     RefIds:
-    - rid: 128412176724787226
+    - rid: 128412340012187768
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1606320482543

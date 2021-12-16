@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - id: 0
+    - rid: 128412340012187764
   m_TableData:
   - m_Id: 53889619628576768
     m_Localized: Um pequeno jabuti xereta viu dez cegonhas felizes
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: Esperando pela entrada de {Argument} ...
     m_Metadata:
       m_Items:
-      - id: 1
+      - rid: 128412340012187765
   - m_Id: 128975581559312384
     m_Localized: "Altere a posi\xE7\xE3o das chaves para corresponder ao seu dispositivo
       f\xEDsico."
@@ -194,13 +194,26 @@ MonoBehaviour:
     m_Localized: Redefinir
     m_Metadata:
       m_Items: []
+  - m_Id: 137267298339311616
+    m_Localized: Tamanho da interface
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139879054509264896
+    m_Localized: "Falta o seu idioma ou voc\xEA percebeu um erro de grafia?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139886961887989760
+    m_Localized: Layout
+    m_Metadata:
+      m_Items: []
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 128412340012187764
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    00000001:
+    - rid: 128412340012187765
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

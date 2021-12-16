@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - id: 0
+    - rid: 128412340012187760
   m_TableData:
   - m_Id: 110730334208
     m_Localized: Audio
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: "S'est\xE0 esperant l'entrada de {Argument}..."
     m_Metadata:
       m_Items:
-      - id: 1
+      - rid: 128412340012187761
   - m_Id: 128975581559312384
     m_Localized: "Canvia la posici\xF3 de les tecles perqu\xE8 coincideixi amb el
       teu dispositiu f\xEDsic."
@@ -194,13 +194,26 @@ MonoBehaviour:
     m_Localized: Restableix
     m_Metadata:
       m_Items: []
+  - m_Id: 137267298339311616
+    m_Localized: "Mida de la interf\xEDcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139879054509264896
+    m_Localized: Falta el vostre idioma o ha notat un error d'ortografia?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139886961887989760
+    m_Localized: Disseny
+    m_Metadata:
+      m_Items: []
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 128412340012187760
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    00000001:
+    - rid: 128412340012187761
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

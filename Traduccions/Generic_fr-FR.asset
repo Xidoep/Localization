@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - id: 0
+    - rid: 128412340012187728
   m_TableData:
   - m_Id: 110730334208
     m_Localized: Musice
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: "En attente de l'entr\xE9e {Argument}..."
     m_Metadata:
       m_Items:
-      - id: 1
+      - rid: 128412340012187729
   - m_Id: 128975581559312384
     m_Localized: "Modifiez la position des touches pour qu'elles correspondent \xE0
       votre appareil physique."
@@ -194,13 +194,27 @@ MonoBehaviour:
     m_Localized: "R\xE9initialiser"
     m_Metadata:
       m_Items: []
+  - m_Id: 137267298339311616
+    m_Localized: Taille de l'interface
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139879054509264896
+    m_Localized: "Votre langue est manquante ou avez-vous remarqu\xE9 une faute d'orthographe
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139886961887989760
+    m_Localized: Disposition
+    m_Metadata:
+      m_Items: []
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 128412340012187728
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    00000001:
+    - rid: 128412340012187729
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
