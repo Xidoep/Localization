@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 128412340012187760
+    - rid: 128412356712071516
   m_TableData:
   - m_Id: 110730334208
     m_Localized: Audio
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: "S'est\xE0 esperant l'entrada de {Argument}..."
     m_Metadata:
       m_Items:
-      - rid: 128412340012187761
+      - rid: 128412356712071517
   - m_Id: 128975581559312384
     m_Localized: "Canvia la posici\xF3 de les tecles perqu\xE8 coincideixi amb el
       teu dispositiu f\xEDsic."
@@ -206,14 +206,38 @@ MonoBehaviour:
     m_Localized: Disseny
     m_Metadata:
       m_Items: []
+  - m_Id: 140183852680925184
+    m_Localized: Ajuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140187309622087680
+    m_Localized: Escalar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140188873254424576
+    m_Localized: Deixar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140189903522287616
+    m_Localized: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140208921129963520
+    m_Localized: "Visi\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140213298993483776
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 128412340012187760
+    - rid: 128412356712071516
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 128412340012187761
+    - rid: 128412356712071517
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

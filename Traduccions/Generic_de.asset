@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 128412340012187766
+    - rid: 128412356712071549
   m_TableData:
   - m_Id: 53889619628576768
     m_Localized: Sylvia wagt quick den Jux bei Pforzheim
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: Warte auf {Argument}-Eingabe...
     m_Metadata:
       m_Items:
-      - rid: 128412340012187767
+      - rid: 128412356712071550
   - m_Id: 128975581559312384
     m_Localized: "\xC4ndern Sie die Position der Tasten entsprechend Ihrem physischen
       Ger\xE4t."
@@ -206,14 +206,38 @@ MonoBehaviour:
     m_Localized: Layout
     m_Metadata:
       m_Items: []
+  - m_Id: 140183852680925184
+    m_Localized: Hilfe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140187309622087680
+    m_Localized: Klettern
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140188873254424576
+    m_Localized: Freisetzung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140189903522287616
+    m_Localized: Springen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140208921129963520
+    m_Localized: Vision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140213298993483776
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 128412340012187766
+    - rid: 128412356712071549
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 128412340012187767
+    - rid: 128412356712071550
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

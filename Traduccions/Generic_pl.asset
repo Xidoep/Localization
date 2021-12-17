@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 128412340012187769
+    - rid: 128412356712071512
   m_TableData:
   - m_Id: 53889619628576768
     m_Localized: "P\xF3jd\u017A\u017Ce, ki\u0144 t\u0119 chmurno\u015B\u0107 w g\u0142\u0105b
@@ -185,7 +185,7 @@ MonoBehaviour:
     m_Localized: Oczekiwanie na wprowadzenie {Argument}...
     m_Metadata:
       m_Items:
-      - rid: 128412340012187770
+      - rid: 128412356712071513
   - m_Id: 128975581559312384
     m_Localized: "Zmie\u0144 po\u0142o\u017Cenie klawiszy, aby dopasowa\u0107 je
       do urz\u0105dzenia fizycznego."
@@ -208,14 +208,38 @@ MonoBehaviour:
     m_Localized: "Uk\u0142ad"
     m_Metadata:
       m_Items: []
+  - m_Id: 140183852680925184
+    m_Localized: Pomoc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140187309622087680
+    m_Localized: "Wspina\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140188873254424576
+    m_Localized: Uwolnienie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140189903522287616
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140208921129963520
+    m_Localized: "Pogl\u0105d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140213298993483776
+    m_Localized: "Bawi\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 128412340012187769
+    - rid: 128412356712071512
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 128412340012187770
+    - rid: 128412356712071513
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

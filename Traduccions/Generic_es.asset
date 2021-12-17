@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 1646476094789124228
+    - rid: 128412356712071553
   m_TableData:
   - m_Id: 110730334208
     m_Localized: "M\xFAsica"
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: Esperando la entrada de {Argument}...
     m_Metadata:
       m_Items:
-      - rid: 1646476094789124229
+      - rid: 128412356712071554
   - m_Id: 128975581559312384
     m_Localized: "Camba la posici\xF3n de las teclas para que coincida con su dispositivo
       f\xEDsico."
@@ -198,14 +198,46 @@ MonoBehaviour:
     m_Localized: "Posici\xF3n"
     m_Metadata:
       m_Items: []
+  - m_Id: 139879054509264896
+    m_Localized: "\xBFFalta su idioma o ha notado un error de ortograf\xEDa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139886961887989760
+    m_Localized: "Disposici\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140183852680925184
+    m_Localized: Ayuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140187309622087680
+    m_Localized: Escalar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140188873254424576
+    m_Localized: Soltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140189903522287616
+    m_Localized: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140208921129963520
+    m_Localized: "Visi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140213298993483776
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 1646476094789124228
+    - rid: 128412356712071553
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 1646476094789124229
+    - rid: 128412356712071554
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

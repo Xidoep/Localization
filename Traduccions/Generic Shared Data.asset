@@ -205,14 +205,38 @@ MonoBehaviour:
     m_Key: Credits Complet
     m_Metadata:
       m_Items: []
+  - m_Id: 140183852680925184
+    m_Key: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140187309622087680
+    m_Key: Climb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140188873254424576
+    m_Key: Release
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140189903522287616
+    m_Key: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140208921129963520
+    m_Key: Vision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140213298993483776
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 128412340012187768
+    rid: 128412356712071557
   references:
     version: 2
     RefIds:
-    - rid: 128412340012187768
+    - rid: 128412356712071557
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1606320482543

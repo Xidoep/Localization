@@ -17,7 +17,7 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 128412340012187728
+    - rid: 128412356712071518
   m_TableData:
   - m_Id: 110730334208
     m_Localized: Musice
@@ -184,7 +184,7 @@ MonoBehaviour:
     m_Localized: "En attente de l'entr\xE9e {Argument}..."
     m_Metadata:
       m_Items:
-      - rid: 128412340012187729
+      - rid: 128412356712071519
   - m_Id: 128975581559312384
     m_Localized: "Modifiez la position des touches pour qu'elles correspondent \xE0
       votre appareil physique."
@@ -207,14 +207,38 @@ MonoBehaviour:
     m_Localized: Disposition
     m_Metadata:
       m_Items: []
+  - m_Id: 140183852680925184
+    m_Localized: Aider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140187309622087680
+    m_Localized: Escalader
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140188873254424576
+    m_Localized: "Lib\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140189903522287616
+    m_Localized: Sauter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140208921129963520
+    m_Localized: Vision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140213298993483776
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 128412340012187728
+    - rid: 128412356712071518
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 128412340012187729
+    - rid: 128412356712071519
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
