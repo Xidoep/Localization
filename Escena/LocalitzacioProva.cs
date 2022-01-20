@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Localization;
 using UnityEngine.Localization.Settings;
+using XS_Utils;
 
 public class LocalitzacioProva : MonoBehaviour
 {
@@ -17,12 +18,11 @@ public class LocalitzacioProva : MonoBehaviour
             canvi = 0;
 
             idioma ++;
-            if(idioma > LocalizationSettings.AvailableLocales.Locales.Count - 1)
+            if(idioma > XS_Localization.Languages - 1)
             {
                 idioma = 0;
             }
-
-            LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[idioma];
+            idioma.SelectLanguage();
         }
     }
 
