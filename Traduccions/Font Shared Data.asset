@@ -19,14 +19,19 @@ MonoBehaviour:
     m_Key: font
     m_Metadata:
       m_Items: []
+  - m_Id: 26527515493212160
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items:
-    - id: 0
+    - rid: 0
   m_KeyGenerator:
-    id: 1
+    rid: 1
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 0
       type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries:
@@ -43,7 +48,7 @@ MonoBehaviour:
           - pl
         m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
           PublicKeyToken=null
-    00000001:
+    - rid: 1
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1636727120764
