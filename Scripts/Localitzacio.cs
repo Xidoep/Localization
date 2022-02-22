@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Localization;
 using UnityEngine.Localization.Settings;
+using XS_Utils;
 
-[CreateAssetMenu]
+[DefaultExecutionOrder(4)]
+[CreateAssetMenu(menuName = "Xido Studio/Localitzacio/Localitzacio")]
 public class Localitzacio : ScriptableObject
 {
     const string IDIOMA_ACTUAL_GUARDAT_KEY = "IdiomaActual";
@@ -14,11 +16,13 @@ public class Localitzacio : ScriptableObject
     public Guardat guardat;
     public Locale perDefecte;
 
+
+
     [ContextMenu("RecuperarIdiomaGuardat")]
     public void RecuperarIdiomaGuardat()
     {
         //CARREGAR el guardat abans de fer aixo, si no, no rebras res.
-        Debug.Log((int)guardat.Get(IdiomaActualKey, -1));
+        Debug.Log($"RecuperarIdiomaGuardat { (int)guardat.Get(IdiomaActualKey, -1)}");
         if(guardat != null) IdiomaActual((int)guardat.Get(IdiomaActualKey, -1));
     }
 
@@ -33,7 +37,7 @@ public class Localitzacio : ScriptableObject
         }
 
         //Per si de cas es selecciona un index que supera el rang, agafa l'idioma per defecte.
-        if(_locale > LocalizationSettings.AvailableLocales.Locales.Count)
+        if (_locale > LocalizationSettings.AvailableLocales.Locales.Count)
         {
             PerDefecte();
             return;
@@ -47,6 +51,7 @@ public class Localitzacio : ScriptableObject
 
         //¡¡¡GUARDAR el guardat despres de fer això!!!
     }
+
 
     public void PerDefecte()
     {
