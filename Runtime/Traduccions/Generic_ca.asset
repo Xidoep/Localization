@@ -10,122 +10,41 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Generic_fr-FR
+  m_Name: Generic_ca
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: fr-FR
+    m_Code: ca
   m_SharedData: {fileID: 11400000, guid: c57b1a19b115908409fbf8060f51e954, type: 2}
   m_Metadata:
     m_Items:
-    - rid: 128412356712071518
+    - rid: 128412356712071516
   m_TableData:
   - m_Id: 110730334208
-    m_Localized: Musice
-    m_Metadata:
-      m_Items: []
-  - m_Id: 743201472958464
-    m_Localized: "Param\xE8tres"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 2887464629489664
-    m_Localized: "D\xE9s\xE9lectionner"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 2887438738051072
-    m_Localized: "S\xE9lectionner"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1816585753513984
-    m_Localized: Bugs
-    m_Metadata:
-      m_Items: []
-  - m_Id: 53889619628576768
-    m_Localized: Portez ce whisky au vieux juge blond qui fume
-    m_Metadata:
-      m_Items: []
-  - m_Id: 104664852266143744
-    m_Localized: J'accepte
-    m_Metadata:
-      m_Items: []
-  - m_Id: 104664893768781824
-    m_Localized: Annuler
-    m_Metadata:
-      m_Items: []
-  - m_Id: 104666997115768832
-    m_Localized: Voulez-vous vraiment changer la langue du jeu ?
-    m_Metadata:
-      m_Items: []
-  - m_Id: 104707295472701440
-    m_Localized: "par d\xE9faut"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 104709180648771584
-    m_Localized: "Fran\xE7ais"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105690973334065152
-    m_Localized: Continuer
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105692014154797056
-    m_Localized: "Les contr\xF4les"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105692783968964608
-    m_Localized: Menu principal
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105708870286626816
-    m_Localized: Clavier
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105708887340666880
-    m_Localized: manette de jeu
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105711477667319808
-    m_Localized: Suspendre le menu
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105781014609711104
-    m_Localized: "Voulez-vous vraiment revenir au menu principal\_?"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 105795585810550784
-    m_Localized: "\xCAtes-vous s\xFBr de vouloir changer de contr\xF4leur de jeu\_?
-      Assurez-vous de l'avoir branch\xE9."
-    m_Metadata:
-      m_Items: []
-  - m_Id: 108276306844241920
-    m_Localized: "\xCAtes-vous s\xFBr de vouloir quitter le jeu\_?"
+    m_Localized: Audio
     m_Metadata:
       m_Items: []
   - m_Id: 243521404194816
-    m_Localized: "Les contr\xF4les"
+    m_Localized: Controls
     m_Metadata:
       m_Items: []
   - m_Id: 243525460086784
-    m_Localized: Gameplay
+    m_Localized: Joc
     m_Metadata:
       m_Items: []
   - m_Id: 243530015100928
-    m_Localized: Graphique
+    m_Localized: "Gr\xE0fics"
     m_Metadata:
       m_Items: []
   - m_Id: 243536457551872
-    m_Localized: Langue
+    m_Localized: Idioma
     m_Metadata:
       m_Items: []
   - m_Id: 243541889175552
-    m_Localized: "Cr\xE9dits"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1816624022343680
-    m_Localized: Toute suggestion?
+    m_Localized: "Cr\xE8dits"
     m_Metadata:
       m_Items: []
   - m_Id: 243915337420800
-    m_Localized: Retourner
+    m_Localized: Enderrere
     m_Metadata:
       m_Items: []
   - m_Id: 244002092404736
@@ -133,35 +52,120 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 244160473518080
-    m_Localized: Musique
+    m_Localized: "M\xFAsica"
     m_Metadata:
       m_Items: []
   - m_Id: 244182250344448
-    m_Localized: Effets
+    m_Localized: Efectes
     m_Metadata:
       m_Items: []
   - m_Id: 244185668702208
-    m_Localized: Muet
+    m_Localized: Mut
     m_Metadata:
       m_Items: []
   - m_Id: 244187581304832
-    m_Localized: Vrai
+    m_Localized: Cert
     m_Metadata:
       m_Items: []
   - m_Id: 244342460174336
-    m_Localized: Faux
+    m_Localized: Fals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743201472958464
+    m_Localized: "Configuaci\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809939748802560
+    m_Localized: ... trobes a faltar una llengua?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816585753513984
+    m_Localized: Has trobat un error?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1816624022343680
+    m_Localized: Algun suggeriment?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887438738051072
+    m_Localized: Seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2887464629489664
+    m_Localized: Deseleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53889619628576768
+    m_Localized: "Jove xef, porti whisky amb quinze gla\xE7ons d'hidrogen, coi!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664852266143744
+    m_Localized: Acceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104664893768781824
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104666997115768832
+    m_Localized: "De veritat vols canviar l\u2019idioma del joc?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104707295472701440
+    m_Localized: per defecte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104709180648771584
+    m_Localized: "Catal\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105690973334065152
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692014154797056
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105692783968964608
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708870286626816
+    m_Localized: Teclat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105708887340666880
+    m_Localized: Mando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105711477667319808
+    m_Localized: "Men\xFA de pausa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105781014609711104
+    m_Localized: "Esteu segur que voleu tornar al men\xFA principal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105795585810550784
+    m_Localized: Esteu segur que voleu canviar el controlador del joc? Assegureu-vos
+      que el teniu endollat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108276306844241920
+    m_Localized: Estas segur que vols deixar el joc?
     m_Metadata:
       m_Items: []
   - m_Id: 1799837155250176
-    m_Localized: Mouvement
+    m_Localized: Moviment
     m_Metadata:
       m_Items: []
   - m_Id: 1799840917540864
-    m_Localized: Viser
+    m_Localized: Apuntar
     m_Metadata:
       m_Items: []
   - m_Id: 1799842184220672
-    m_Localized: Tirer
+    m_Localized: Dispara
     m_Metadata:
       m_Items: []
   - m_Id: 1799843652227072
@@ -169,76 +173,79 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1799975051382784
-    m_Localized: Interagir
-    m_Metadata:
-      m_Items: []
-  - m_Id: 1809939748802560
-    m_Localized: ... vous manque une langue?
+    m_Localized: Interactuar
     m_Metadata:
       m_Items: []
   - m_Id: 109064921279025152
-    m_Localized: Courant
+    m_Localized: Actual
     m_Metadata:
       m_Items: []
   - m_Id: 128605801568456704
-    m_Localized: "En attente de l'entr\xE9e {Argument}..."
+    m_Localized: "S'est\xE0 esperant l'entrada de {Argument}..."
     m_Metadata:
       m_Items:
-      - rid: 128412356712071519
+      - rid: 128412356712071517
   - m_Id: 128975581559312384
-    m_Localized: "Modifiez la position des touches pour qu'elles correspondent \xE0
-      votre appareil physique."
+    m_Localized: "Canvia la posici\xF3 de les tecles perqu\xE8 coincideixi amb el
+      teu dispositiu f\xEDsic."
     m_Metadata:
       m_Items: []
   - m_Id: 129017169870245888
-    m_Localized: "R\xE9initialiser"
+    m_Localized: Restableix
     m_Metadata:
       m_Items: []
   - m_Id: 137267298339311616
-    m_Localized: Taille de l'interface
+    m_Localized: "Mida de la interf\xEDcie"
     m_Metadata:
       m_Items: []
   - m_Id: 139879054509264896
-    m_Localized: "Votre langue est manquante ou avez-vous remarqu\xE9 une faute d'orthographe
-      ?"
+    m_Localized: Falta el vostre idioma o ha notat un error d'ortografia?
     m_Metadata:
       m_Items: []
   - m_Id: 139886961887989760
-    m_Localized: Disposition
+    m_Localized: Disseny
     m_Metadata:
       m_Items: []
   - m_Id: 140183852680925184
-    m_Localized: Aider
+    m_Localized: Ajuda
     m_Metadata:
       m_Items: []
   - m_Id: 140187309622087680
-    m_Localized: Escalader
+    m_Localized: Escalar
     m_Metadata:
       m_Items: []
   - m_Id: 140188873254424576
-    m_Localized: "Lib\xE9rer"
+    m_Localized: Deixar
     m_Metadata:
       m_Items: []
   - m_Id: 140189903522287616
-    m_Localized: Sauter
+    m_Localized: Saltar
     m_Metadata:
       m_Items: []
   - m_Id: 140208921129963520
-    m_Localized: Vision
+    m_Localized: "Visi\xF3"
     m_Metadata:
       m_Items: []
   - m_Id: 140213298993483776
-    m_Localized: Jouer
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166971288161275904
+    m_Localized: Restaurar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166972510360489984
+    m_Localized: Dispositius
     m_Metadata:
       m_Items: []
   references:
     version: 2
     RefIds:
-    - rid: 128412356712071518
+    - rid: 128412356712071516
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801
-    - rid: 128412356712071519
+    - rid: 128412356712071517
       type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_Entries: 00d08a8e4be6c801

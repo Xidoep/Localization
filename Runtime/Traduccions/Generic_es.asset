@@ -230,6 +230,14 @@ MonoBehaviour:
     m_Localized: Jugar
     m_Metadata:
       m_Items: []
+  - m_Id: 166971288161275904
+    m_Localized: Restaurar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166972510360489984
+    m_Localized: Dispositivos
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
