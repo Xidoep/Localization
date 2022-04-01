@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.AddressableAssets.Settings;
+using XS_Utils;
 
 [InitializeOnLoad]
 class LocalizationBuild
@@ -13,17 +14,17 @@ class LocalizationBuild
 
     static void BuildAdessables()
     {
-        Debug.Log("...start checking [LOCALIZATION]");
+        Debugar.Log("...start checking [LOCALIZATION]");
 
-        Debug.Log("Cleaning...");
+        Debugar.Log("Cleaning...");
         AddressableAssetSettings.CleanPlayerContent();
-        Debug.Log("...cleaned!!!");
+        Debugar.Log("...cleaned!!!");
 
-        Debug.Log("Building...");
+        Debugar.Log("Building...");
         AddressableAssetSettings.BuildPlayerContent();
-        Debug.Log("...builded!!!");
+        Debugar.Log("...builded!!!");
 
-        Debug.Log("...end checking [LOCALIZATION]");
-        Debug.Log("-----------------------------------------------");
+        Debugar.Log("...end checking [LOCALIZATION]");
+        Debugar.Log("-----------------------------------------------");
     }
 }

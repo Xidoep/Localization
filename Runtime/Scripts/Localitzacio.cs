@@ -19,7 +19,7 @@ public class Localitzacio : ScriptableObject
 
     private void OnEnable()
     {
-        Debugar.Log("Localitzacio - OnEnable => Carregar()");
+        Debugar.Log("[Localitzacio] OnEnable => Carregar()");
         //Carregar();
         //This can not be loaded on Enable because the locales aren't initialized.
         guardat.onLoad += Carregar;
@@ -35,7 +35,7 @@ public class Localitzacio : ScriptableObject
     public void Carregar()
     {
         //CARREGAR el guardat abans de fer aixo, si no, no rebras res.
-        Debugar.Log($"Localitzacio - RecuperarIdiomaGuardat { (int)guardat.Get(IdiomaActualKey, -1)}");
+        Debugar.Log($"[Localitzacio] RecuperarIdiomaGuardat { (int)guardat.Get(IdiomaActualKey, -1)}");
         if(guardat != null) IdiomaActual((int)guardat.Get(IdiomaActualKey, -1));
     }
 
@@ -157,5 +157,10 @@ public class Localitzacio : ScriptableObject
 
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[language];
         if (guardat != null) guardat.SetLocal(IdiomaActualKey, language);
+    }
+
+    private void OnValidate()
+    {
+        guardat = XS_Editor.LoadGuardat<Guardat>();
     }
 }
