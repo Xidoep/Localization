@@ -238,6 +238,10 @@ MonoBehaviour:
     m_Localized: Dispositius
     m_Metadata:
       m_Items: []
+  - m_Id: 295064718383558656
+    m_Localized: "Sensibilitat del ratol\xED"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

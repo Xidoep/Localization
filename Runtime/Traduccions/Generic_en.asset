@@ -238,6 +238,38 @@ MonoBehaviour:
     m_Localized: Devices
     m_Metadata:
       m_Items: []
+  - m_Id: 295064718383558656
+    m_Localized: Mouse sensibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295800865636163584
+    m_Localized: Turn Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295800607497723904
+    m_Localized: Pan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801172650827776
+    m_Localized: Turn Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801408278437888
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801593968664576
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801714034810880
+    m_Localized: Zoom in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801783572176896
+    m_Localized: Zoom out
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

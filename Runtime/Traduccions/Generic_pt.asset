@@ -234,6 +234,10 @@ MonoBehaviour:
     m_Localized: Dispositivos
     m_Metadata:
       m_Items: []
+  - m_Id: 295064718383558656
+    m_Localized: Sensibilidade do mouse
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
