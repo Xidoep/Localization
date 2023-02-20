@@ -270,6 +270,10 @@ MonoBehaviour:
     m_Localized: Zoom out
     m_Metadata:
       m_Items: []
+  - m_Id: 296153360942178304
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
