@@ -274,6 +274,10 @@ MonoBehaviour:
     m_Localized: "Despla\xE7ament"
     m_Metadata:
       m_Items: []
+  - m_Id: 298533536007901184
+    m_Localized: clica per continuar...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

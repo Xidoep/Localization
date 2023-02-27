@@ -274,6 +274,10 @@ MonoBehaviour:
     m_Localized: Sounds
     m_Metadata:
       m_Items: []
+  - m_Id: 298533536007901184
+    m_Localized: Click to continue...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

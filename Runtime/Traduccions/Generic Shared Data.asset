@@ -273,6 +273,10 @@ MonoBehaviour:
     m_Key: Sounds
     m_Metadata:
       m_Items: []
+  - m_Id: 298533536007901184
+    m_Key: Click to continue...
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
