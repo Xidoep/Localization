@@ -274,6 +274,22 @@ MonoBehaviour:
     m_Localized: Acercarse
     m_Metadata:
       m_Items: []
+  - m_Id: 299016065709449216
+    m_Localized: Controles Basicos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299019771486085120
+    m_Localized: Sistema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299041804831891456
+    m_Localized: Guardar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299042015964766208
+    m_Localized: Cargar
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
