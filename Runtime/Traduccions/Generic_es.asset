@@ -242,6 +242,38 @@ MonoBehaviour:
     m_Localized: "Sensibilidad del rat\xF3n"
     m_Metadata:
       m_Items: []
+  - m_Id: 298846205705375744
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298867848007831552
+    m_Localized: Si
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298868021706543104
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295800607497723904
+    m_Localized: Movimient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295800865636163584
+    m_Localized: Girar derecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801408278437888
+    m_Localized: Girar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801783572176896
+    m_Localized: Alejarse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295801593968664576
+    m_Localized: Acercarse
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

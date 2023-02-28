@@ -277,6 +277,18 @@ MonoBehaviour:
     m_Key: Click to continue...
     m_Metadata:
       m_Items: []
+  - m_Id: 298846205705375744
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298867848007831552
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298868021706543104
+    m_Key: No
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
