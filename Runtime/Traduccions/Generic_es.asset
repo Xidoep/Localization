@@ -290,6 +290,14 @@ MonoBehaviour:
     m_Localized: Cargar
     m_Metadata:
       m_Items: []
+  - m_Id: 298533536007901184
+    m_Localized: Clicar para continuar...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299306255494336512
+    m_Localized: Partidas guardadas
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

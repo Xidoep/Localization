@@ -306,6 +306,10 @@ MonoBehaviour:
     m_Localized: Carregar
     m_Metadata:
       m_Items: []
+  - m_Id: 299306255494336512
+    m_Localized: Parties guardades
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
