@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5e3aa397bb3a714e961fd8c395828f7, type: 3}
   m_Name: Localitzacio
   m_EditorClassIdentifier: 
-  guardat: {fileID: 11400000, guid: d8ba27ffe88b6fc4cb63b16236c5a60f, type: 2}
+  idiomaSeleccionat:
+    guardat: {fileID: 11400000, guid: d8ba27ffe88b6fc4cb63b16236c5a60f, type: 2}
+    key: IdiomaActual
+    direccio: 1
+    perDefecte: 3
   perDefecte: {fileID: 11400000, guid: b23c1d8fa1ebcc240a113db35644b7f9, type: 2}
