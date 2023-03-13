@@ -182,7 +182,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128605801568456704
-    m_Localized: Oczekiwanie na wprowadzenie {Argument}...
+    m_Localized: 
     m_Metadata:
       m_Items:
       - rid: 128412356712071513

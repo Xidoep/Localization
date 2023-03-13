@@ -181,7 +181,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128605801568456704
-    m_Localized: Esperando la entrada de {Argument}...
+    m_Localized: Aprieta un boton para sobreescribir el input "{Argument}"...
     m_Metadata:
       m_Items:
       - rid: 128412356712071554
@@ -300,6 +300,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 296153360942178304
     m_Localized: Sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303630844529659904
+    m_Localized: Original
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303640120182624256
+    m_Localized: "\xA1Ya se utiliza!"
     m_Metadata:
       m_Items: []
   references:

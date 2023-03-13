@@ -181,7 +181,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128605801568456704
-    m_Localized: Warte auf {Argument}-Eingabe...
+    m_Localized: 
     m_Metadata:
       m_Items:
       - rid: 128412356712071550

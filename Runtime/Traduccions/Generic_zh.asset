@@ -181,7 +181,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128605801568456704
-    m_Localized: "\u6B63\u5728\u7B49\u5F85 {Argument}\u8F93\u5165..."
+    m_Localized: 
     m_Metadata:
       m_Items:
       - rid: 128412356712071552
