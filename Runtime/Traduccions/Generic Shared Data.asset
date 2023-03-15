@@ -127,12 +127,6 @@ MonoBehaviour:
     m_Key: Continue
     m_Metadata:
       m_Items: []
-  - m_Id: 105692014154797056
-    m_Key: 'Controls
-
-'
-    m_Metadata:
-      m_Items: []
   - m_Id: 105692783968964608
     m_Key: Main menu
     m_Metadata:

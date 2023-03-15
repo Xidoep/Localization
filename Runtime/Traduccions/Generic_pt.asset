@@ -47,10 +47,6 @@ MonoBehaviour:
     m_Localized: Prosseguir
     m_Metadata:
       m_Items: []
-  - m_Id: 105692014154797056
-    m_Localized: Controles
-    m_Metadata:
-      m_Items: []
   - m_Id: 105692783968964608
     m_Localized: Menu principal
     m_Metadata:
