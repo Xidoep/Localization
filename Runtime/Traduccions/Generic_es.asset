@@ -306,6 +306,18 @@ MonoBehaviour:
     m_Localized: "\xA1Ya se utiliza!"
     m_Metadata:
       m_Items: []
+  - m_Id: 306877808943747072
+    m_Localized: "Est\xE1ndar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306878255888781312
+    m_Localized: Modos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306920029067857920
+    m_Localized: Borrar
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
