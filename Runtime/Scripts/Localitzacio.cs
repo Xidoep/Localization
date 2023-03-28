@@ -18,12 +18,15 @@ public class Localitzacio : ScriptableObject
     {
         idiomaSeleccionat = new SavableVariable<int>(KEY_IDIOMA_ACTUAL, Guardat.Direccio.Cloud, IdiomaDelSistema());
         IdiomaActual(idiomaSeleccionat.Valor);
+        if (LocalizationSettings.HasSettings)
+            LocalizationSettings.Instance.ResetState();
     }
 
 
-
+    
     public void IdiomaActual(int idioma)
     {
+        //LocalizationSettings.InitializationOperation.Completed += 
         if (idioma == -1 || idioma > LocalizationSettings.AvailableLocales.Locales.Count)
         {
             PerDefecte();
@@ -32,6 +35,7 @@ public class Localitzacio : ScriptableObject
 
         SetIdioma(idioma);
     }
+
     public void PerDefecte() => SetIdioma(-1);
     public void PerDevice() => SetIdioma(IdiomaDelSistema());
 
@@ -39,6 +43,7 @@ public class Localitzacio : ScriptableObject
 
     void SetIdioma(int idioma)
     {
+        Debug.Log($"SetIdoma = {idioma}");
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[idioma];
         idiomaSeleccionat.Valor = idioma;
     }
