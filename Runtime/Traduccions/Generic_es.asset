@@ -326,6 +326,10 @@ MonoBehaviour:
     m_Localized: Guardando...
     m_Metadata:
       m_Items: []
+  - m_Id: 309452088135045120
+    m_Localized: Carpeta
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
