@@ -20,7 +20,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26527515493212160
-    m_Key: New Entry
+    m_Key: font Rodona
     m_Metadata:
       m_Items: []
   m_Metadata:
@@ -36,6 +36,17 @@ MonoBehaviour:
       data:
         m_Entries:
         - m_KeyId: 18577281024
+          m_TableCodes:
+          - en
+          - zh
+          - ru
+          - es
+          - de
+          - pt
+          - fr-FR
+          - ca
+          - pl
+        - m_KeyId: 26527515493212160
           m_TableCodes:
           - en
           - zh
