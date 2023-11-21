@@ -191,7 +191,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 137267298339311616
-    m_Localized: "Posici\xF3n"
+    m_Localized: "Tama\xF1o de interficie"
     m_Metadata:
       m_Items: []
   - m_Id: 139879054509264896
@@ -328,6 +328,14 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 309452088135045120
     m_Localized: Carpeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394699325621379072
+    m_Localized: on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394699328628695040
+    m_Localized: off
     m_Metadata:
       m_Items: []
   references:

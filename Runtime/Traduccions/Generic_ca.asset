@@ -338,6 +338,14 @@ MonoBehaviour:
     m_Localized: Carpeta
     m_Metadata:
       m_Items: []
+  - m_Id: 394699325621379072
+    m_Localized: on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 394699328628695040
+    m_Localized: off
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
