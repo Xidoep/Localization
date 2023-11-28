@@ -1,0 +1,651 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prova_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 9dafd7352aaf62e42a02e1392a226f28, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005748670468
+    m_Localized: Folder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005748670467
+    m_Localized: Contact me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005748670466
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005748670465
+    m_Localized: Modes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005748670464
+    m_Localized: Standart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476223
+    m_Localized: Already used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476222
+    m_Localized: Original
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476221
+    m_Localized: Saved files
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476220
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476219
+    m_Localized: Saveing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476218
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476217
+    m_Localized: System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476216
+    m_Localized: Basic Constrols
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476215
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476214
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476213
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476212
+    m_Localized: Click to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476211
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476210
+    m_Localized: Zoom out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476209
+    m_Localized: Zoom in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476208
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476207
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476206
+    m_Localized: Rotate right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476205
+    m_Localized: Rotate left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476204
+    m_Localized: Pan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476203
+    m_Localized: Mouse sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476202
+    m_Localized: Devices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476201
+    m_Localized: Restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476200
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476199
+    m_Localized: Vision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476198
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476197
+    m_Localized: Release
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476196
+    m_Localized: Climb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476195
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476194
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476193
+    m_Localized: Layout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476192
+    m_Localized: Missing your language or have you noticed a spelling mistake?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476191
+    m_Localized: Do you miss a languague?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476190
+    m_Localized: Do you want to change language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476189
+    m_Localized: Interficie size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476188
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476187
+    m_Localized: Change the position of the keys to match your physical device.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476186
+    m_Localized: Press a button to override the "{Argument}" input...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476185
+    m_Localized: Current
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476184
+    m_Localized: Do you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476183
+    m_Localized: Do you want to change controller?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476182
+    m_Localized: Are you sure you want to go back to the main menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476181
+    m_Localized: Pause menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476180
+    m_Localized: The quick brown fox jumps over the lazy dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476179
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476178
+    m_Localized: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476177
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476176
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476175
+    m_Localized: by default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476174
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476173
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476172
+    m_Localized: Deselect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476171
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476170
+    m_Localized: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476169
+    m_Localized: Bombs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476168
+    m_Localized: Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476167
+    m_Localized: Aim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476166
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476165
+    m_Localized: FALSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476164
+    m_Localized: TRUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476163
+    m_Localized: Mute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476162
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476161
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005744476160
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281865
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281864
+    m_Localized: Any suggestion?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281863
+    m_Localized: Found any bug?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281862
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281861
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281860
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281859
+    m_Localized: Could you bring me the shoes, please?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281858
+    m_Localized: Can you bring me the shoes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281857
+    m_Localized: How are you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1005740281856
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: How are you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Can you bring me the shoes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Could you bring me the shoes, please?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Found any bug?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Any suggestion?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13
+    m_Localized: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14
+    m_Localized: Mute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15
+    m_Localized: TRUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16
+    m_Localized: FALSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18
+    m_Localized: Aim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20
+    m_Localized: Bombs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Localized: Select
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: Deselect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: by default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: The quick brown fox jumps over the lazy dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Pause menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: Are you sure you want to go back to the main menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: Do you want to change controller?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Do you want to exit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Current
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Press a button to override the "{Argument}" input...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Change the position of the keys to match your physical device.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Reset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: Interficie size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: Do you want to change language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: Do you miss a languague?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43
+    m_Localized: Missing your language or have you noticed a spelling mistake?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: Layout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: .
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: Climb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: Release
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: Vision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52
+    m_Localized: Restore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: Devices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: Mouse sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Pan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: Rotate left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Rotate right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59
+    m_Localized: Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60
+    m_Localized: Zoom in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: Zoom out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: Sounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63
+    m_Localized: Click to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Basic Constrols
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68
+    m_Localized: System
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Saved files
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72
+    m_Localized: Original
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Already used
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Standart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: Modes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Contact me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: Folder
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

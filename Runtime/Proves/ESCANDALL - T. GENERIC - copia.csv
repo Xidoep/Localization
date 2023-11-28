@@ -1,0 +1,121 @@
+﻿Key,Id,Shared Comment,English(en),Chinese (Simplified)(zh),Chinese (Simplified)(zh) Comments,Russian(ru),Russian(ru) Comments,Spanish(es),Spanish(es) Comments,German(de),German(de) Comments,Portuguese(pt),Portuguese(pt) Comments,French (France)(fr-FR),French (France)(fr-FR) Comments,Catalan(ca),Catalan(ca) Comments,Polish(pl),Polish(pl) Comments
+"SETTINGS",1005740281856,"","","","","","","","","","","","","","","","","",""
+"AUDIO",1005740281857,"","","","","","","","","","","","","","","","","",""
+"CONTROLS",1005740281858,"","","","","","","","","","","","","","","","","",""
+"GAMEPLAY",1005740281859,"","","","","","","","","","","","","","","","","",""
+"GRAPHICS",1005740281860,"","","","","","","","","","","","","","","","","",""
+"LANGUAGE",1005740281861,"","","","","","","","","","","","","","","","","",""
+"CREDITS",1005740281862,"","","","","","","","","","","","","","","","","",""
+"BUGS",1005740281863,"","","","","","","","","","","","","","","","","",""
+"SUGGESTIONS",1005740281864,"","","","","","","","","","","","","","","","","",""
+"BACK",1005740281865,"","","","","","","","","","","","","","","","","",""
+"EXIT",1005744476160,"","","","","","","","","","","","","","","","","",""
+"MUSIC",1005744476161,"","","","","","","","","","","","","","","","","",""
+"EFFECTS",1005744476162,"","","","","","","","","","","","","","","","","",""
+"MUTE",1005744476163,"","","","","","","","","","","","","","","","","",""
+"TRUE",1005744476164,"","","","","","","","","","","","","","","","","",""
+"FALSE",1005744476165,"","","","","","","","","","","","","","","","","",""
+"MOVEMENT",1005744476166,"","","","","","","","","","","","","","","","","",""
+"AIM",1005744476167,"","","","","","","","","","","","","","","","","",""
+"SHOOT",1005744476168,"","","","","","","","","","","","","","","","","",""
+"BOMBS",1005744476169,"","","","","","","","","","","","","","","","","",""
+"INTERACTION",1005744476170,"","","","","","","","","","","","","","","","","",""
+"SELECT",1005744476171,"","","","","","","","","","","","","","","","","",""
+"DESELECT",1005744476172,"","","","","","","","","","","","","","","","","",""
+"ACCEPT",1005744476173,"","","","","","","","","","","","","","","","","",""
+"CANCEL",1005744476174,"","","","","","","","","","","","","","","","","",""
+"BY_DEFAULT",1005744476175,"","","","","","","","","","","","","","","","","",""
+"CONTINUE",1005744476176,"","","","","","","","","","","","","","","","","",""
+"MAIN_MENU",1005744476177,"","","","","","","","","","","","","","","","","",""
+"KEYBOARD",1005744476178,"","","","","","","","","","","","","","","","","",""
+"GAMEPAD",1005744476179,"","","","","","","","","","","","","","","","","",""
+"PANGRAM",1005744476180,"","","","","","","","","","","","","","","","","",""
+"PAUSE_MENU",1005744476181,"","","","","","","","","","","","","","","","","",""
+"TO_MAIN_MENU?",1005744476182,"","","","","","","","","","","","","","","","","",""
+"CHANGE_CONTROLLER?",1005744476183,"","","","","","","","","","","","","","","","","",""
+"TO_EXIT?",1005744476184,"","","","","","","","","","","","","","","","","",""
+"CURRENT",1005744476185,"","","","","","","","","","","","","","","","","",""
+"WAITING_INPUT",1005744476186,"","","","","","","","","","","","","","","","","",""
+"KEYBOARD_HELP",1005744476187,"","","","","","","","","","","","","","","","","",""
+"RESET",1005744476188,"","","","","","","","","","","","","","","","","",""
+"INTERFICIE_SIZE",1005744476189,"","","","","","","","","","","","","","","","","",""
+"CHANGE_LANGUAGE?",1005744476190,"","","","","","","","","","","","","","","","","",""
+"DO_YOU_MISS_A_LANGUAGUE?",1005744476191,"","","","","","","","","","","","","","","","","",""
+"DO_YOU_MISS_A_LANGUAGUE_POPUP",1005744476192,"","","","","","","","","","","","","","","","","",""
+"LAYOUT",1005744476193,"","","","","","","","","","","","","","","","","",""
+"CREDITS_COMPLET",1005744476194,"","","","","","","","","","","","","","","","","",""
+"HELP",1005744476195,"","","","","","","","","","","","","","","","","",""
+"CLIMB",1005744476196,"","","","","","","","","","","","","","","","","",""
+"RELEASE",1005744476197,"","","","","","","","","","","","","","","","","",""
+"JUMP",1005744476198,"","","","","","","","","","","","","","","","","",""
+"VISION",1005744476199,"","","","","","","","","","","","","","","","","",""
+"PLAY",1005744476200,"","","","","","","","","","","","","","","","","",""
+"RESTORE",1005744476201,"","","","","","","","","","","","","","","","","",""
+"DEVICES",1005744476202,"","","","","","","","","","","","","","","","","",""
+"MOUSE_SENSITIVITY",1005744476203,"","","","","","","","","","","","","","","","","",""
+"PAN",1005744476204,"","","","","","","","","","","","","","","","","",""
+"ROTATE_LEFT",1005744476205,"","","","","","","","","","","","","","","","","",""
+"ROTATE_RIGHT",1005744476206,"","","","","","","","","","","","","","","","","",""
+"ROTATE",1005744476207,"","","","","","","","","","","","","","","","","",""
+"ZOOM",1005744476208,"","","","","","","","","","","","","","","","","",""
+"ZOOM_IN",1005744476209,"","","","","","","","","","","","","","","","","",""
+"ZOOM_OUT",1005744476210,"","","","","","","","","","","","","","","","","",""
+"SOUNDS",1005744476211,"","","","","","","","","","","","","","","","","",""
+"CLICK_TO_CONTINUE",1005744476212,"","","","","","","","","","","","","","","","","",""
+"RESTART",1005744476213,"","","","","","","","","","","","","","","","","",""
+"YES",1005744476214,"","","","","","","","","","","","","","","","","",""
+"NO",1005744476215,"","","","","","","","","","","","","","","","","",""
+"BASIC_CONTROLS",1005744476216,"","","","","","","","","","","","","","","","","",""
+"SYSTEM",1005744476217,"","","","","","","","","","","","","","","","","",""
+"SAVE",1005744476218,"","","","","","","","","","","","","","","","","",""
+"SAVEING",1005744476219,"","","","","","","","","","","","","","","","","",""
+"LOAD",1005744476220,"","","","","","","","","","","","","","","","","",""
+"SAVED_FILES",1005744476221,"","","","","","","","","","","","","","","","","",""
+"ORIGINAL",1005744476222,"","","","","","","","","","","","","","","","","",""
+"ALREADY_USED",1005744476223,"","","","","","","","","","","","","","","","","",""
+"STANDART",1005748670464,"","","","","","","","","","","","","","","","","",""
+"MODES",1005748670465,"","","","","","","","","","","","","","","","","",""
+"DELETE",1005748670466,"","","","","","","","","","","","","","","","","",""
+"CONTACT_ME",1005748670467,"","","","","","","","","","","","","","","","","",""
+"FOLDER",1005748670468,"","","","","","","","","","","","","","","","","",""sprechen.",Altere a posição das teclas para corresponder ao seu dispositivo físico.,Modifiez la position des clés pour correspondre à votre appareil physique.,Canvieu la posició de les tecles perquè coincideixi amb el dispositiu físic.,"Zmień pozycję klawiszy, aby dopasować urządzenie fizyczne."
+RESET,39,Reset,重置,Перезагрузить,Reiniciar,Zurücksetzen,Reiniciar,Réinitialiser,Restablir,Resetowanie
+INTERFICIE_SIZE,40,Interficie size,互助尺寸,Размер интерфи,Tamaño de interfición,Interficie -Größe,Tamanho da interficie,Taille interficie,Mida de la interfficitat,Rozmiar interficcy
+CHANGE_LANGUAGE?,41,Do you want to change language,你想改变语言吗,Вы хотите изменить язык,¿Quieres cambiar el idioma?,Möchten Sie die Sprache ändern?,Você quer mudar de linguagem,Voulez-vous changer la langue,Voleu canviar el llenguatge,Chcesz zmienić język
+DO_YOU_MISS_A_LANGUAGUE?,42,Do you miss a languague?,你想念语言吗？,Вы скучаете по языку?,¿Echas de menos una lengua?,Vermissen Sie eine Trägheit?,Você sente falta de um idioma?,Vous manquez une langue?,Trobes a faltar un llenguatge?,Tęsknisz za językiem?
+DO_YOU_MISS_A_LANGUAGUE_POPUP,43,Missing your language or have you noticed a spelling mistake?,缺少您的语言，或者您注意到拼写错误？,Пропустив свой язык или вы заметили орфографическую ошибку?,¿Te pierdes tu idioma o has notado un error de ortografía?,Fehlen Ihrer Sprache oder haben Sie einen Rechtschreibfehler bemerkt?,Sentindo falta do seu idioma ou você notou um erro de ortografia?,Vous manquez votre langue ou avez-vous remarqué une erreur d'orthographe?,Trobeu a faltar el vostre idioma o heu notat un error d’ortografia?,"Brakuje jej języka, czy zauważyłeś błąd pisowni?"
+LAYOUT,44,Layout,布局,Макет,Disposición,Layout,Layout,Mise en page,Pla,Układ
+CREDITS_COMPLET,45,.,。,Полем,.,.,.,.,.,.
+HELP,46,Help,帮助,Помощь,Ayuda,Helfen,Ajuda,Aide,Ajudar,Pomoc
+CLIMB,47,Climb,爬,Взбираться,Trepar,Steigen,Escalar,Grimper,Escalar,Wspinać się
+RELEASE,48,Release,发布,Выпускать,Liberar,Freigeben,Liberar,Libérer,Publicar,Uwolnienie
+JUMP,49,Jump,跳,Прыгать,Saltar,Springen,Pular,Saut,Saltar,Skok
+VISION,50,Vision,想象,Зрение,Visión,Vision,Visão,Vision,Visió,Wizja
+PLAY,51,Play,玩,Играть,Jugar,Spielen,Jogar,Jouer,Jugar,Grać
+RESTORE,52,Restore,恢复,Восстановить,Restaurar,Wiederherstellen,Restaurar,Restaurer,Retornar,Przywrócić
+DEVICES,53,Devices,设备,Устройства,Dispositivos,Geräte,Dispositivos,Dispositifs,Dispositius,Urządzenia
+MOUSE_SENSITIVITY,54,Mouse sensitivity,鼠标灵敏度,Чувствительность мыши,Sensibilidad del ratón,Maus-Empfindlichkeit,Sensibilidade do mouse,Sensibilité de la souris,Sensibilitat del ratolí,Czułość myszy
+PAN,55,Pan,平底锅,Кастрюля,Cacerola,Pfanne,Frigideira,Poêle,Cassola,Patelnia
+ROTATE_LEFT,56,Rotate left,向左旋转,Поверните влево,Girar a la izquierda,Nach links drehen,Vire à esquerda,Tourne à gauche,Gireu a l'esquerra,Obrót w lewo
+ROTATE_RIGHT,57,Rotate right,右旋,Вращаться вправо,Gira a la derecha,Drehe nach rechts,Vire à direita,Tourner à droite,Gireu a la dreta,Obróć w prawo
+ROTATE,58,Rotate,旋转,Повернуть,Girar,Drehen,Girar,Tourner,Rodar,Obracać się
+ZOOM,59,Zoom,飞涨,Зум,Zoom,Zoomen,Ampliação,Zoom,Zoom,Powiększenie
+ZOOM_IN,60,Zoom in,放大,Приблизить,Acercarse,Hineinzoomen,Mais Zoom,Agrandir,Ampliar,Zbliżenie
+ZOOM_OUT,61,Zoom out,缩小,Уменьшить,Disminuir el zoom,Rauszoomen,Reduzir o zoom,Dézoomer,Disminuir el zoom,Powiększyć
+SOUNDS,62,Sounds,听起来,Звуки,Sonidos,Geräusche,Sons,Des sons,Sons,Dźwięki
+CLICK_TO_CONTINUE,63,Click to continue,点击继续,Нажмите для продолжения,Haz click para continuar,Klicke um Fortzufahren,Clique para continuar,Cliquez pour continuer,Feu clic per continuar,"Kliknij, aby kontynuować"
+RESTART,64,Restart,重新开始,Перезапуск,Reanudar,Neu starten,Reiniciar,Redémarrage,Reinicia,Uruchom ponownie
+YES,65,Yes,是的,Да,Sí,Ja,Sim,Oui,Sí,Tak
+NO,66,No,不,Нет,No,NEIN,Não,Non,No,NIE
+BASIC_CONTROLS,67,Basic Constrols,基本约束,Основные конструирование,Constrolos básicos,Grundbeschränkungen,Constróis básicos,Contrèges de base,Constroles bàsiques,Podstawowe ograniczenia
+SYSTEM,68,System,系统,Система,Sistema,System,Sistema,Système,Sistema,System
+SAVE,69,Save,节省,Сохранять,Ahorrar,Speichern,Salvar,Sauvegarder,Estalviar,Ratować
+SAVEING,70,Saveing,保存,Сохранить,Salvo,Sparen,Salvar,Sauvegarde,Estalviar,Oszczędzanie
+LOAD,70,Load,加载,Нагрузка,Carga,Belastung,Carregar,Charger,Carregar,Obciążenie
+SAVED_FILES,71,Saved files,保存的文件,Сохраненные файлы,Archivos guardados,Gespeicherte Dateien,Arquivos salvos,Fichiers enregistrés,Fitxers desats,Zapisane pliki
+ORIGINAL,72,Original,原来的,Оригинал,Original,Original,Original,Original,Original,Oryginalny
+ALREADY_USED,73,Already used,已使用,Уже использован,Ya usado,Schon benutzt,Já usado,Déjà utilisé,Ja s'utilitza,Już użyte
+STANDART,74,Standart,Standart,Standart,Estancado,Standart,padrão,Standart,Disseny,Standart
+MODES,75,Modes,模式,Режимы,Modos,Modi,Modos,Modes,Modes,Tryby
+DELETE,76,Delete,删除,Удалить,Borrar,Löschen,Excluir,Supprimer,Esborrar,Usuwać
+CONTACT_ME,77,Contact me,联络我,Свяжитесь со мной,Contáctame,Kontaktiere mich,Contate-me,Contactez moi,Poseu -vos en contacte amb mi,Skontaktuj się ze mną
+FOLDER,78,Folder,文件夹,Папка,Carpeta,Ordner,Pasta,Dossier,Carpeta,Teczka

@@ -1,0 +1,80 @@
+Key,id,en,zh,ru,es,de,pt,fr,ca,pl
+SETTINGS,1,Settings,设置,Настройки,Ajustes,Einstellungen,Configurações,Paramètres,Configuració,Ustawienia
+AUDIO,2,How are you?,你好吗？,Как вы?,¿Cómo estás?,Wie geht es dir?,Como vai você?,Comment vas-tu?,Com estàs?,Jak się masz?
+CONTROLS,3,Can you bring me the shoes?,你能给我鞋吗？,Вы можете принести мне туфли?,¿Puedes traerme los zapatos?,Kannst du mir die Schuhe bringen?,Você pode me trazer os sapatos?,Pouvez-vous m'apporter les chaussures?,Em pots portar les sabates?,Czy możesz przynieść mi buty?
+GAMEPLAY,4,"Could you bring me the shoes, please?",请给我鞋子吗？,"Не могли бы вы принести мне обувь, пожалуйста?","¿Podrías traerme los zapatos, por favor?",Könnten Sie mir bitte die Schuhe bringen?,"Você poderia me trazer os sapatos, por favor?","Pourriez-vous m'apporter les chaussures, s'il vous plaît?","Podríeu portar -me les sabates, si us plau?","Czy możesz przynieść mi buty, proszę?"
+GRAPHICS,5,Graphics,图形,Графика,Gráficos,Grafik,Gráficos,Graphique,Gràfics,Grafika
+LANGUAGE,6,Language,语言,Язык,Idioma,Sprache,Linguagem,Langue,Llenguatge,Język
+CREDITS,7,Credits,学分,Кредиты,Créditos,Credits,Créditos,Crédits,Crèdits,Kredyty
+BUGS,8,Found any bug?,找到了错误？,Обнаружили ошибку?,Encontrado algún error?,Fand einen Fehler?,Encontrou algum bug?,Vous avez trouvé un bug?,Heu trobat algun error?,Znalazłeś jakiś błąd?
+SUGGESTIONS,9,Any suggestion?,有建议吗？,Любое предложение?,¿Cualquier sugerencia?,Irgendein Vorschlag?,Alguma sugestão?,Toute suggestion?,Algun suggeriment?,Jakieś sugestie?
+BACK,10,Back,后退,Назад,Atrás,Zurück,Voltar,Dos,esquena,Z powrotem
+EXIT,11,Exit,出口,Выход,Salida,Ausfahrt,Saída,Sortie,Abandonar,Wyjście
+MUSIC,12,Music,音乐,Музыка,Música,Musik,Música,Musique,Música,Muzyka
+EFFECTS,13,Effects,效果,Последствия,Efectos,Auswirkungen,Efeitos,Effets,Efectes,Efekty
+MUTE,14,Mute,沉默的,Немой,Silenciar,Stumm,Mudo,Muet,Muda,Niemy
+TRUE,15,TRUE,真的,истинный,VERDADERO,WAHR,verdadeiro,VRAI,Lleial,PRAWDA
+FALSE,16,FALSE,错误的,ЛОЖЬ,FALSO,FALSCH,FALSO,FAUX,FALS,FAŁSZ
+MOVEMENT,17,Movement,移动,Движение,Movimiento,Bewegung,Movimento,Mouvement,Moviment,Ruch
+AIM,18,Aim,目的,Цель,Apuntar,Ziel,Mirar,But,Apuntar,Cel
+SHOOT,19,Shoot,射击,Стрелять,Disparar,Schießen,Atirar,Tirer,Disparar,Strzelać
+BOMBS,20,Bombs,炸弹,Бомбы,Bombas,Bomben,Bombas,Bombes,Bombes,Bomby
+INTERACTION,21,Interaction,相互作用,Взаимодействие,Interacción,Interaktion,Interação,Interaction,Interacció,Interakcja
+SELECT,22,Select,选择,Выбирать,Seleccionar,Wählen,Selecione,Sélectionner,Seleccionar,Wybierać
+DESELECT,23,Deselect,取消选择,Отменить выбор,Deseleccionar,Abwählen,Desmarcar,Désélectionner,Deselegir,Odznacz
+ACCEPT,24,Accept,接受,Принимать,Aceptar,Akzeptieren,Aceitar,Accepter,Acceptar,Zaakceptować
+CANCEL,25,Cancel,取消,Отмена,Cancelar,Stornieren,Cancelar,Annuler,Cancel · lar,Anulować
+BY_DEFAULT,26,by default,默认情况下,по умолчанию,por defecto,standardmäßig,por padrão,par défaut,per defecte,domyślnie
+CONTINUE,27,Continue,继续,Продолжать,Continuar,Weitermachen,Continuar,Continuer,Continuar,Kontynuować
+MAIN_MENU,28,Main menu,主菜单,Главное меню,Menú principal,Hauptmenü,Menu principal,Menu principal,Menú principal,Menu główne
+KEYBOARD,29,Keyboard,键盘,Клавиатура,Teclado,Tastatur,Teclado,Clavier,Teclat,Klawiatura
+GAMEPAD,30,Gamepad,游戏板,Геймпад,Gamepad,Gamepad,Controle,Manche de jeu,Gapad,Kontroler
+PANGRAM,31,The quick brown fox jumps over the lazy dog,敏捷的棕色狐狸跳过了懒狗,"В чащах юга жил бы цитрус? Да, но фальшивый экземпляр!",Whisky bueno: ¡excitad mi frágil pequeña vejez!,Sylvia wagt quick den Jux bei Pforzheim,Um pequeno jabuti xereta viu dez cegonhas felizes,Portez ce whisky au vieux juge blond qui fume,"Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!","Pójdźże, kiń tę chmurność w głąb flaszy"
+PAUSE_MENU,32,Pause menu,暂停菜单,Пауза меню,Menú de pausa,Pausemenü,Menu de pausa,Menu de pause,Pausa Menú,Menu pauzy
+TO_MAIN_MENU?,33,Are you sure you want to go back to the main menu?,您确定要返回主菜单吗？,"Вы уверены, что хотите вернуться в главное меню?",¿Estás seguro de que quieres volver al menú principal?,"Sind Sie sicher, dass Sie zum Hauptmenü zurückkehren möchten?",Tem certeza de que deseja voltar ao menu principal?,Êtes-vous sûr de vouloir retourner au menu principal?,Esteu segur que voleu tornar al menú principal?,Czy na pewno chcesz wrócić do menu głównego?
+CHANGE_CONTROLLER?,34,Do you want to change controller?,您想更换控制器吗？,Вы хотите изменить контроллер?,¿Quieres cambiar el controlador?,Möchten Sie den Controller wechseln?,Você quer alterar o controlador?,Voulez-vous changer de contrôleur?,Voleu canviar de controlador?,Chcesz zmienić kontroler?
+TO_EXIT?,35,Do you want to exit?,你想出去吗？,Вы хотите выйти?,¿Quieres salir?,Möchtest du aussteigen?,Você quer sair?,Voulez-vous sortir?,Voleu sortir?,Czy chcesz wyjść?
+CURRENT,36,Current,当前的,Текущий,Actual,Aktuell,Atual,Actuel,Corrent,Aktualny
+WAITING_INPUT,37,"Press a button to override the ""{Argument}"" input...",按下按钮以覆盖“{Argument}”输入...,"Нажмите кнопку, чтобы переопределить вход ""{Argument}"" ...","Presione un botón para anular la entrada ""{Argument}"" ...","Drücken Sie eine Taste, um die Eingabe ""{Argument}"" zu überschreiben ...","Pressione um botão para substituir a entrada ""{Argument}"" ...","Appuyez sur un bouton pour remplacer l'entrée ""{Argument}"" ...","Premeu un botó per substituir l'entrada ""{Argument}"" ...","Naciśnij przycisk, aby zastąpić wejście „{Argument}” ..."
+KEYBOARD_HELP,38,Change the position of the keys to match your physical device.,更改密钥的位置以匹配您的物理设备。,"Измените положение ключей, чтобы соответствовать вашему физическому устройству.",Cambie la posición de las teclas para que coincida con su dispositivo físico.,"Ändern Sie die Position der Schlüssel, um Ihrem physischen Gerät zu entsprechen.",Altere a posição das teclas para corresponder ao seu dispositivo físico.,Modifiez la position des clés pour correspondre à votre appareil physique.,Canvieu la posició de les tecles perquè coincideixi amb el dispositiu físic.,"Zmień pozycję klawiszy, aby dopasować urządzenie fizyczne."
+RESET,39,Reset,重置,Перезагрузить,Reiniciar,Zurücksetzen,Reiniciar,Réinitialiser,Restablir,Resetowanie
+INTERFICIE_SIZE,40,Interficie size,互助尺寸,Размер интерфи,Tamaño de interfición,Interficie -Größe,Tamanho da interficie,Taille interficie,Mida de la interfficitat,Rozmiar interficcy
+CHANGE_LANGUAGE?,41,Do you want to change language,你想改变语言吗,Вы хотите изменить язык,¿Quieres cambiar el idioma?,Möchten Sie die Sprache ändern?,Você quer mudar de linguagem,Voulez-vous changer la langue,Voleu canviar el llenguatge,Chcesz zmienić język
+DO_YOU_MISS_A_LANGUAGUE?,42,Do you miss a languague?,你想念语言吗？,Вы скучаете по языку?,¿Echas de menos una lengua?,Vermissen Sie eine Trägheit?,Você sente falta de um idioma?,Vous manquez une langue?,Trobes a faltar un llenguatge?,Tęsknisz za językiem?
+DO_YOU_MISS_A_LANGUAGUE_POPUP,43,Missing your language or have you noticed a spelling mistake?,缺少您的语言，或者您注意到拼写错误？,Пропустив свой язык или вы заметили орфографическую ошибку?,¿Te pierdes tu idioma o has notado un error de ortografía?,Fehlen Ihrer Sprache oder haben Sie einen Rechtschreibfehler bemerkt?,Sentindo falta do seu idioma ou você notou um erro de ortografia?,Vous manquez votre langue ou avez-vous remarqué une erreur d'orthographe?,Trobeu a faltar el vostre idioma o heu notat un error d’ortografia?,"Brakuje jej języka, czy zauważyłeś błąd pisowni?"
+LAYOUT,44,Layout,布局,Макет,Disposición,Layout,Layout,Mise en page,Pla,Układ
+CREDITS_COMPLET,45,.,。,Полем,.,.,.,.,.,.
+HELP,46,Help,帮助,Помощь,Ayuda,Helfen,Ajuda,Aide,Ajudar,Pomoc
+CLIMB,47,Climb,爬,Взбираться,Trepar,Steigen,Escalar,Grimper,Escalar,Wspinać się
+RELEASE,48,Release,发布,Выпускать,Liberar,Freigeben,Liberar,Libérer,Publicar,Uwolnienie
+JUMP,49,Jump,跳,Прыгать,Saltar,Springen,Pular,Saut,Saltar,Skok
+VISION,50,Vision,想象,Зрение,Visión,Vision,Visão,Vision,Visió,Wizja
+PLAY,51,Play,玩,Играть,Jugar,Spielen,Jogar,Jouer,Jugar,Grać
+RESTORE,52,Restore,恢复,Восстановить,Restaurar,Wiederherstellen,Restaurar,Restaurer,Retornar,Przywrócić
+DEVICES,53,Devices,设备,Устройства,Dispositivos,Geräte,Dispositivos,Dispositifs,Dispositius,Urządzenia
+MOUSE_SENSITIVITY,54,Mouse sensitivity,鼠标灵敏度,Чувствительность мыши,Sensibilidad del ratón,Maus-Empfindlichkeit,Sensibilidade do mouse,Sensibilité de la souris,Sensibilitat del ratolí,Czułość myszy
+PAN,55,Pan,平底锅,Кастрюля,Cacerola,Pfanne,Frigideira,Poêle,Cassola,Patelnia
+ROTATE_LEFT,56,Rotate left,向左旋转,Поверните влево,Girar a la izquierda,Nach links drehen,Vire à esquerda,Tourne à gauche,Gireu a l'esquerra,Obrót w lewo
+ROTATE_RIGHT,57,Rotate right,右旋,Вращаться вправо,Gira a la derecha,Drehe nach rechts,Vire à direita,Tourner à droite,Gireu a la dreta,Obróć w prawo
+ROTATE,58,Rotate,旋转,Повернуть,Girar,Drehen,Girar,Tourner,Rodar,Obracać się
+ZOOM,59,Zoom,飞涨,Зум,Zoom,Zoomen,Ampliação,Zoom,Zoom,Powiększenie
+ZOOM_IN,60,Zoom in,放大,Приблизить,Acercarse,Hineinzoomen,Mais Zoom,Agrandir,Ampliar,Zbliżenie
+ZOOM_OUT,61,Zoom out,缩小,Уменьшить,Disminuir el zoom,Rauszoomen,Reduzir o zoom,Dézoomer,Disminuir el zoom,Powiększyć
+SOUNDS,62,Sounds,听起来,Звуки,Sonidos,Geräusche,Sons,Des sons,Sons,Dźwięki
+CLICK_TO_CONTINUE,63,Click to continue,点击继续,Нажмите для продолжения,Haz click para continuar,Klicke um Fortzufahren,Clique para continuar,Cliquez pour continuer,Feu clic per continuar,"Kliknij, aby kontynuować"
+RESTART,64,Restart,重新开始,Перезапуск,Reanudar,Neu starten,Reiniciar,Redémarrage,Reinicia,Uruchom ponownie
+YES,65,Yes,是的,Да,Sí,Ja,Sim,Oui,Sí,Tak
+NO,66,No,不,Нет,No,NEIN,Não,Non,No,NIE
+BASIC_CONTROLS,67,Basic Constrols,基本约束,Основные конструирование,Constrolos básicos,Grundbeschränkungen,Constróis básicos,Contrèges de base,Constroles bàsiques,Podstawowe ograniczenia
+SYSTEM,68,System,系统,Система,Sistema,System,Sistema,Système,Sistema,System
+SAVE,69,Save,节省,Сохранять,Ahorrar,Speichern,Salvar,Sauvegarder,Estalviar,Ratować
+SAVEING,70,Saveing,保存,Сохранить,Salvo,Sparen,Salvar,Sauvegarde,Estalviar,Oszczędzanie
+LOAD,70,Load,加载,Нагрузка,Carga,Belastung,Carregar,Charger,Carregar,Obciążenie
+SAVED_FILES,71,Saved files,保存的文件,Сохраненные файлы,Archivos guardados,Gespeicherte Dateien,Arquivos salvos,Fichiers enregistrés,Fitxers desats,Zapisane pliki
+ORIGINAL,72,Original,原来的,Оригинал,Original,Original,Original,Original,Original,Oryginalny
+ALREADY_USED,73,Already used,已使用,Уже использован,Ya usado,Schon benutzt,Já usado,Déjà utilisé,Ja s'utilitza,Już użyte
+STANDART,74,Standart,Standart,Standart,Estancado,Standart,padrão,Standart,Disseny,Standart
+MODES,75,Modes,模式,Режимы,Modos,Modi,Modos,Modes,Modes,Tryby
+DELETE,76,Delete,删除,Удалить,Borrar,Löschen,Excluir,Supprimer,Esborrar,Usuwać
+CONTACT_ME,77,Contact me,联络我,Свяжитесь со мной,Contáctame,Kontaktiere mich,Contate-me,Contactez moi,Poseu -vos en contacte amb mi,Skontaktuj się ze mną
+FOLDER,78,Folder,文件夹,Папка,Carpeta,Ordner,Pasta,Dossier,Carpeta,Teczka
